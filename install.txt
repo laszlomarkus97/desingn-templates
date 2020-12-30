@@ -1,4 +1,3 @@
-
 # Install Github commandline tool
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
 sudo apt-add-repository https://cli.github.com/packages
@@ -7,9 +6,38 @@ sudo apt install gh
 
 # Instal compilers
 
+## C#
+sudo apt install mono-complete
+
+OR
+
+https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#next-steps
+
 ## C++
+sudo apt install g++
+g++ --version
+# Make project 
+code .
+CTRL SHIFT P
+Quick Start Cmake
 
+## GO
+https://golang.org/doc/install
+go run hello.go
+go version
 
+## JAVA
+
+## PHP
+
+## Python
+Install Pycharm by Ubuntu Software and install anaconda
+
+## Ruby
+
+## Swift
+
+## TypeScript
 
 
 
